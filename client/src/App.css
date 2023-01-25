@@ -1,0 +1,9 @@
+*{
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+/* CSS para los links (NavLink) cuando tienen la clase active */
+.active{
+  font-weight: bolder;
+  color: lightseagreen;
+}
